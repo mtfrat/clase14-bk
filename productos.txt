@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Lápiz",
+    "price": 200,
+    "photo": "https://cdn1.iconfinder.com/data/icons/drawing-tools-5/512/pencil-256.png",
+    "description": "Lápiz de mina color negro",
+    "code": 53426843,
+    "stock": 30,
+    "timestamp": 1647382011015,
+    "id": 1
+  }
+]
